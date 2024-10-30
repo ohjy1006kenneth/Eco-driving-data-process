@@ -30,11 +30,12 @@ Automated Vehicles and was the driving method where automated driving
 controls the speed of the vehicle to minimize stops between traffic
 lights. We ran through all the timing plans and scenarios in them and
 collected log data ![A screenshot of a computer Description
-automatically generated](./media/image1.png){width="3.25625in"
-height="3.64375in"}which collected three things: Mass Air Flow, SOC
+automatically generated](./media/image1.png)
+
+which collected three things: Mass Air Flow, SOC
 (Battery State of Charge), and Speed.
 
-The log file looked like the picture shown at the right side and needed
+The log file looked like the picture shown above and needed
 to be post processed to do data acquisition.**\
 **
 
@@ -56,37 +57,32 @@ I compared data for the Peachtree plan and the result were following:
 ACC Scenario 1: Total Energy = 220660.3 kJ
 
 ![A graph with red lines and black text Description automatically
-generated](./media/image2.png){width="6.5in"
-height="2.796527777777778in"}
+generated](./media/image2.png)
 
 CAV Scenario 1: Total Energy = 208283.4 kJ
 
 ![A graph showing a line Description automatically generated with medium
-confidence](./media/image3.png){width="6.5in"
-height="3.4159722222222224in"}
+confidence](./media/image3.png)
 
 HV Scenario 1: Total Energy = 275228.2 kJ
 
 ![A graph with red lines Description automatically
-generated](./media/image4.png){width="6.5in"
-height="2.904166666666667in"}
+generated](./media/image4.png)
 
 ACC Scenario 3: Total Energy = 389015.9 kJ
 
 ![A graph with orange lines Description automatically
-generated](./media/image5.png){width="6.5in"
-height="2.9916666666666667in"}
+generated](./media/image5.png)
 
 CAV Scenario 3: Total Energy = 177669.8 kJ
 
 ![A graph with a line going up Description automatically
-generated](./media/image6.png){width="6.5in" height="3.3125in"}
+generated](./media/image6.png)
 
 HV Scenario 3: Total Energy = 296110 kJ
 
 ![A graph with red lines and white text Description automatically
-generated](./media/image7.png){width="6.5in"
-height="2.984027777777778in"}
+generated](./media/image7.png)
 
 As the result shows, for Scenario1, CAV were the most energy efficient
 followed by ACC and HV. For Scenario 3, CAV were the most energy
